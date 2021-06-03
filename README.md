@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rishita11
 - 👀 I’m interested in Web development, Java and Python.
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on projects invloving the use of Data Science.
+- 🌱 I’m currently learning Cloud computing
+- 💞️ I’m looking to collaborate on projects invloving the use of Cloud Computing.
 - 📫 How to reach me: Email - srivastavarishita3@gmail.com
                        LinkedIn profile : https://www.linkedin.com/in/rishita-srivastava11/
 
