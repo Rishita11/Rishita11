@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Rishita11
+- 👋 Hi, I’m Rishita Srivastava
 - 👀 I’m interested in Web development, Java and Python.
 - 🌱 I’m currently learning Web development.
-- 💞️ I’m looking to collaborate on projects invloving the use of Web development.
+- 💞️ I’m looking to collaborate on projects involving the use of Web development.
 - 📫 How to reach me: Email - srivastavarishita3@gmail.com
                        LinkedIn profile : https://www.linkedin.com/in/rishita-srivastava11/
 
