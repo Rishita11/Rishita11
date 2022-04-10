@@ -8,11 +8,13 @@
 :school: Currently studying Computer Science at VIT Bhopal University</br>
 :computer: Iam interested in web development and machine learning</br>
 :mailbox: How to reach me: <a href="mailto:srivastavarishita11@gmail.com">srivastavarishita11@gmail.com</a>
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishita11&theme=github_dark&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishita11&theme=github_dark&layout=compact&hide_border=true" /></a> 
+
 
 ## Top repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=kahoot-monkey&theme=github_dark)](https://github.com/kevinfengcs88/kahoot-monkey)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rishita11&repo=kahoot-monkey&theme=github_dark)](https://github.com/Rishita11/Text-Editor-with-doodling-feature)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=crud-list&theme=github_dark)](https://github.com/kevinfengcs88/crud-list)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=kevinfeng.ga&theme=github_dark)](https://github.com/kevinfengcs88/kevinfeng.ga)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=portfolio-template&theme=github_dark)](https://github.com/kevinfengcs88/portfolio-template)
