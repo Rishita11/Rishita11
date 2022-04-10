@@ -8,8 +8,7 @@
 :school: Currently studying Computer Science at VIT Bhopal University</br>
 :computer: Iam interested in web development and machine learning</br>
 :mailbox: How to reach me: <a href="mailto:srivastavarishita11@gmail.com">srivastavarishita11@gmail.com</a>
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinfengcs88&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishita11&theme=github_dark&layout=compact&hide_border=true" /></a> |
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishita11&theme=github_dark&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ## Top repositories
