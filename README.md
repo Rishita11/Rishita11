@@ -10,7 +10,6 @@
 :mailbox: How to reach me: <a href="mailto:srivastavarishita11@gmail.com">srivastavarishita11@gmail.com</a>
 
 
-<a href="https://github.com/rishita11/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishita11&theme=github_dark&layout=compact&hide_border=true" /></a> 
 
 
 ## Languages and Tools:
